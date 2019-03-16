@@ -1,5 +1,5 @@
 # Analyze IMDB Movie Data using Keras
-Analyze IMDB Movie Data using Keras
+Analyze IMDB Movie Data using Keras and use it to predict the sentiment analysis of a review.
 
 # The Dataset
 
