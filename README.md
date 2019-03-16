@@ -9,9 +9,10 @@ Now, the input already comes preprocessed for us for convenience. Each review is
 
 Then, the sentence is turned into a vector by simply concatenating these integers. For instance, if the sentence is "To be or not to be." and the indices of the words are as follows:
 
-"to": 5
-"be": 8
-"or": 21
-"not": 3
+- "to": 5
+- "be": 8
+- "or": 21
+- "not": 3
+
 Then the sentence gets encoded as the vector [5,8,21,3,5,8].
 
